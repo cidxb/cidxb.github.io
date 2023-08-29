@@ -380,9 +380,9 @@ img {
 }
 
 .profile-pic {
-  border-radius: 50%;
+  border-radius: 10%;
   width: 170px;
-  height: 170px;
+  height: 220px;
   border: solid 2px white;
 }
 
