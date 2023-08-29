@@ -7,8 +7,6 @@ body {
 img {
   max-width: 100%;
   max-height: 100%;
-/*   object-fit: cover; */
-      }
 }
 
 .head {
@@ -382,9 +380,9 @@ img {
 }
 
 .profile-pic {
-  border-radius: 30%;
+  border-radius: 50%;
   width: 170px;
-  height: 170;
+  height: 170px;
   border: solid 2px white;
 }
 
