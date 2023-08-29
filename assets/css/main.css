@@ -384,7 +384,7 @@ img {
 .profile-pic {
   border-radius: 30%;
   width: 170px;
-  height: 260px;
+  height: 170;
   border: solid 2px white;
 }
 
