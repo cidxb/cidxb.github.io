@@ -14,7 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/RobotJuggle.jpg',
             link: '',
             title: 'Robotic Arm Juggling PingPong Ball',
-            demo: 'https://mporter.co',
+            demo: 'https://cidxb.github.io/',
             technologies: ['RL', 'DL', 'Python'],
             description: "Robotic Arm learned how to dynamically juggle and throw PingPong Ball into target By Reinforcement Learning",
             categories: ['featured', 'RL','DL']
