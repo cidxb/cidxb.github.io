@@ -12,7 +12,7 @@ let render_projects = (slug) => {
     let projects_obj = [
         {
             image: 'assets/images/RobotJuggle.jpg',
-            link: '',
+            link: 'https://cidxb.blogspot.com/2023/11/learning-sim2real-robotic-arm-juggling.html',
             title: 'Robotic Arm Juggling PingPong Ball',
             demo: 'https://cidxb.github.io/',
             technologies: ['RL', 'DL', 'Python'],
