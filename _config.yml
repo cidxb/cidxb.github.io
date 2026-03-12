@@ -25,7 +25,7 @@ title:                 "Sid Liang, Yi"
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal website of Sid Liang, Yi.
+  Cognitive Robotics · Embodied AI — building robots that perceive and act like humans.
 
 # A shorter description for the sidebar.
 tagline:               Create a human-friendly future
@@ -46,9 +46,9 @@ author:
   name: Sid Liang, Yi
   email: cidxbx@gmail.com
   about: |
-    I am currently a Reinforcement Learning engineer at a Tactile sensor/ Dexterous hand / Humanoid robot startup.
-    
-    I got my bachelor's degree in Photoeletronic Science and Engineering from the Southwest University of Science and Technology, Sichuan, China.
+    Research Lead at Paxini Tech, building cognitive robots with tactile perception and multi-modal learning.
+
+    M.Sc. Sensor & Cognitive Psychology, TU Chemnitz. B.Sc. Photoelectronic Science, SWUST.
   
   picture:
     path: /assets/img/avatar.jpg
