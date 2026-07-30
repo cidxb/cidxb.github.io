@@ -20,18 +20,26 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 "Sid Liang, Yi" 
+title:                 "Sid Liang, Yi"
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Cognitive Robotics · Embodied AI — building robots that perceive and act like humans.
+  Operator-researcher building embodied intelligence for real-world robots:
+  tactile perception, dexterous manipulation, real-robot learning, and agent runtimes.
 
 # A shorter description for the sidebar.
-tagline:               Create a human-friendly future
+tagline:               Embodied intelligence, built for the real world
 
 # A list of keywords for your blog
-keywords:              []
+keywords:
+  - embodied AI
+  - robotics
+  - tactile perception
+  - dexterous manipulation
+  - real-robot learning
+  - cognitive robotics
+  - robot agent runtime
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -46,7 +54,8 @@ author:
   name: Sid Liang, Yi
   email: cidxbx@gmail.com
   about: |
-    Research Lead at Paxini Tech, building cognitive robots with tactile perception and multi-modal learning.
+    Embodied AI & Robotics Technical Lead working across tactile perception,
+    dexterous manipulation, real-robot learning, and recoverable agent runtimes.
 
     M.Sc. Sensor & Cognitive Psychology, TU Chemnitz. B.Sc. Photoelectronic Science, SWUST.
   
@@ -62,11 +71,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /#about
+  - title:             Work
+    url:               /#work
   - title:             Research
     url:               /#research
-  - title:             Me
+  - title:             Journey
+    url:               /#journey
+  - title:             North Star
     url:               /#Me
 
 # Add links to the footer.
@@ -80,7 +91,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2025 Liang, Yi. All rights reserved.
+copyright:             © 2026 Liang, Yi. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

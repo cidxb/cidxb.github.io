@@ -1,20 +1,31 @@
-# Hydejack Starter Kit
+# cidxb.github.io
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Personal research and engineering site for Sid Liang, Yi.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+The site presents an operator-researcher profile across embodied AI, tactile
+perception, dexterous manipulation, real-robot learning, cognitive robotics,
+and robot-agent runtimes.
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+## Stack
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+- Jekyll
+- Hydejack 9
+- GitHub Pages / GitHub Actions
+- Custom SCSS in `_sass/my-style.scss`
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## Local development
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+Open <http://localhost:4000/>.
+
+## Content map
+
+- `index.html` — homepage content and information architecture
+- `_config.yml` — site metadata, navigation, author profile
+- `_data/authors.yml` — sidebar author card
+- `_sass/my-style.scss` — homepage visual system and responsive layout
+- `assets/img/` — project and narrative imagery
