@@ -671,21 +671,7 @@
 }
 
 .north-star-header {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(18rem, 0.9fr);
-  gap: 3rem;
-  align-items: end;
   margin-bottom: 2rem;
-
-  blockquote {
-    margin: 0;
-    padding-left: 1.5rem;
-    border-left: 3px solid var(--portfolio-warm);
-    color: var(--portfolio-ink);
-    font-size: clamp(1.25rem, 2.6vw, 1.85rem);
-    font-style: italic;
-    line-height: 1.35;
-  }
 }
 
 .north-star-intro {
@@ -817,8 +803,7 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .split-heading,
-  .north-star-header {
+  .split-heading {
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
