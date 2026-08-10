@@ -1,6 +1,6 @@
 # cidxb.github.io
 
-Personal research and engineering site for Sid Liang, Yi.
+Personal research and engineering site for Liang (Sid) Yi.
 
 The site presents an operator-researcher profile across embodied AI, tactile
 perception, dexterous manipulation, real-robot learning, cognitive robotics,

@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 "Sid Liang, Yi"
+title:                 "Liang (Sid) Yi"
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -51,7 +51,7 @@ avatar:                /assets/img/avatar.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name: Sid Liang, Yi
+  name: Liang (Sid) Yi
   email: cidxbx@gmail.com
   about: |
     Embodied AI & Robotics Technical Lead working across tactile perception,
@@ -91,7 +91,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2026 Liang, Yi. All rights reserved.
+copyright:             © 2026 Liang (Sid) Yi. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

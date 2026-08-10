@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Sid Liang, Yi
+title: About Liang (Sid) Yi
 description: >
   Embodied AI and robotics technical lead working across cognitive science,
   tactile perception, dexterous manipulation, and real-robot learning.
